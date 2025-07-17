@@ -7,8 +7,8 @@ This project was developed as part of our academic curriculum and focuses on the
 ## 👩‍💻 Team Members
 
 - **Dharshini** (GitHub: https://github.com/DharshiniVasudevan)
-- **Chandralekha** (GitHub: https://github.com/BugganaLekha)
-- **Rida** (GitHub: https://github.com/Ridaa-26)
+- **Buggana Chandralekha** (GitHub: https://github.com/BugganaLekha)
+- **Karamala Ridaa** (GitHub: https://github.com/Ridaa-26)
 
 ---
 
